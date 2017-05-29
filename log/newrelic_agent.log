@@ -1,0 +1,24 @@
+# Logfile created on 2017-05-29 20:15:14 -0300 by logger.rb/56438
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Starting the New Relic agent in "development" environment.
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Reading configuration from config/newrelic.yml (/Users/riveign/rails-bootstrap)
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : New Relic Agent Developer Mode enabled.
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Environment: development
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : No known dispatcher detected.
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Application: OldgApp
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] WARN : Agent configured not to send data in this environment.
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing ActiveJob instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing ActiveRecord 5 instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing Net instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing deferred Puma::Rack::Builder instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing Puma::Rack::Builder middleware instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing Redis Instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing Sidekiq instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing Rails 5 Action Cable instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing Rails 5 Controller instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Installing Rails 5 view instrumentation
+[2017-05-29 20:15:14 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Finished instrumentation
+[2017-05-29 20:15:15 -0300 Nachos-MacBook-Pro.local (17065)] INFO : Doing deferred dependency-detection before Rack startup
